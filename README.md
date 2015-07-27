@@ -13,10 +13,10 @@ Files
 Usage
 -------------------------
 Flags:
-* -u/--url - The URL to the file to be checked [required]
-* -t/--time - The time in seconds the file should be updated by. [required]
-* -U/--username - The user to authenticate as
-* -a/--password - The password to authenticate with
+* -u --url - The URL to the file to be checked [required]
+* -t --time - The time in seconds the file should be updated by. [required]
+* -U --username - The user to authenticate as
+* -a --password - The password to authenticate with
 
 Check a publicly accessible file and make sure it's updated  within every 24 hours:
 ```
